@@ -474,6 +474,8 @@
   test-terminal-stream-update
   test-terminal-command-completion
   test-terminal-lisp-operation-completion
+  test-terminal-path-completion
+  test-terminal-path-completion-history
   test-terminal-modal-selection
   test-terminal-application-read-resize
   test-terminal-non-tty-fallback)
@@ -644,3 +646,4 @@
   test-check-command-selection
   test-check-result-validation
   test-check-process-lifecycle)
+
